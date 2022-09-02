@@ -1,8 +1,8 @@
-# Probabilistic Biomass Estimation with Conditional Geneartive Adversarial Networks
+# Probabilistic Biomass Estimation with Conditional Generative Adversarial Networks
 
 Johannes Leonhardt, Lukas Drees, Peter Jung, Ribana Roscher
 
-This repository will soon contain code and data samples for our paper Probabilistic Biomass Estimation with Conditional Geneartive Adversarial Networks, published at GCPR 2022.
+This repository contains code and data samples regarding our paper "Probabilistic Biomass Estimation with Conditional Generative Adversarial Networks", published at GCPR 2022.
 
 ## Abstract
 
